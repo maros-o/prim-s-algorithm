@@ -1,4 +1,3 @@
-from typing import final
 import pygame
 import random
 import os
